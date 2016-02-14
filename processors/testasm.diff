@@ -1,0 +1,26 @@
+processing file asmFiles/dual.llsc.asm (1 of 1)
+--- memsim.hex	2013-12-05 17:35:46.057571725 -0500
++++ memcpu.hex	2013-12-05 17:35:45.920568113 -0500
+@@ -14,6 +14,7 @@
+ :04000D00AC430008F8
+ :04000E00FFFFFFFFF2
+ :0400200000000002DA
++:0400240000000002D6
+ :0400800034011FC068
+ :0400810034020090B5
+ :040082008C430000AB
+processing file asmFiles/dual.llsc.asm (1 of 1)
+--- memsim.hex	2013-12-05 17:37:05.528668039 -0500
++++ memcpu.hex	2013-12-05 17:37:05.442665770 -0500
+@@ -14,6 +14,7 @@
+ :04000D00AC430008F8
+ :04000E00FFFFFFFFF2
+ :0400200000000002DA
++:0400240000000002D6
+ :0400800034011FC068
+ :0400810034020090B5
+ :040082008C430000AB
+processing file asmFiles/palgorism.asm (1 of 2)
+processing file asmFiles/palgorism.asm~ (2 of 2)
+processing file asmFiles/example.asm (1 of 1)
+processing file asmFiles/dual.llsc.asm (1 of 1)

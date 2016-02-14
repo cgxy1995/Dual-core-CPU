@@ -1,0 +1,17 @@
+work
+mapped
+fpga
+transcript
+Makefile
+modelsim.ini
+*.wlf
+README
+*.swp
+._*
+*.log
+.deps
+*.hex
+*.ver
+docs/ref
+source/pastfile
+.DS_Store
